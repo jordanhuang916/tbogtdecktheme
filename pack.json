@@ -1,0 +1,10 @@
+{
+  "name": "TBoGT Pause Menu Song",
+  "description": "The pause menu ambient song from GTA IV TBoGT for Steam Deck Home",
+  "author": "jordanhuang916",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
